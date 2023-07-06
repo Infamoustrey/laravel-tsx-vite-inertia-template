@@ -1,8 +1,14 @@
 {
-    "name": "laravel/laravel",
+    "name": "infamoustrey/laravel-tsx-vite-inertia-template",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
+    "description": "The skeleton application for the Laravel framework w/ frontend bootstrapped for you.",
+    "keywords": [
+        "laravel",
+        "framework",
+        "typescript",
+        "react",
+        "inertiajs"
+    ],
     "license": "MIT",
     "require": {
         "php": "^8.1",
